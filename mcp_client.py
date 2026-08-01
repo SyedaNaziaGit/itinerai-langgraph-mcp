@@ -123,7 +123,7 @@ async def get_airlines_list():
     tool = avaiation_tools.get("list_airlines")
     if not tool:
         return "Airline Tool is Unavailable"
-    result = await tool.ainvke({})
+    result = await tool.ainvoke({})
     return result
 
 #extracting destination
