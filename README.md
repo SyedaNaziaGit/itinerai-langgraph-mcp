@@ -39,7 +39,7 @@ The tools are exposed as **MCP servers**, the agent is orchestrated with **LangG
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 ```mermaid
 flowchart LR
@@ -67,7 +67,7 @@ flowchart LR
 
 ---
 
-## 🔌 MCP Servers
+##  MCP Servers
 
 | File | Purpose | Type |
 | --- | --- | --- |
@@ -249,4 +249,3 @@ TAVILY_API_KEY=
 
 ---
 
-⭐ If you found this project useful, consider giving it a star!
